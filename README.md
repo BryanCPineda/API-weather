@@ -8,7 +8,6 @@ This is a basic proyect introducing API's use from  _https://openweathermap.org/
 
 you can find the weather status from diferent countries and cities, and see info about max or min temp.
 
-#SoyHenry Bootcamp
 ## Try Out
 
 After clone this respository.
